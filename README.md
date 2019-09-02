@@ -1,2 +1,0 @@
-# react-diary
-react-diary
