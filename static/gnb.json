@@ -1,0 +1,19 @@
+[
+    {
+      "name":"About",
+      "path":"/about",
+      "component":"About"
+    }, {
+      "name":"Profile",
+      "path":"/profile",
+      "component":"Profile"
+    }, {
+      "name":"Diary",
+      "path":"/diary",
+      "component":"Portfolio"
+    }, {
+      "name":"Contact",
+      "path":"/contact",
+      "component":"Contact"
+    }
+  ]

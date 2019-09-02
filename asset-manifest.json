@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-diary/static/css/main.2cce8147.chunk.css",
-    "main.js": "/react-diary/static/js/main.e09fc3b2.chunk.js",
-    "main.js.map": "/react-diary/static/js/main.e09fc3b2.chunk.js.map",
+    "main.css": "/react-diary/static/css/main.0c90369b.chunk.css",
+    "main.js": "/react-diary/static/js/main.9f21801b.chunk.js",
+    "main.js.map": "/react-diary/static/js/main.9f21801b.chunk.js.map",
     "runtime~main.js": "/react-diary/static/js/runtime~main.1b8cb252.js",
     "runtime~main.js.map": "/react-diary/static/js/runtime~main.1b8cb252.js.map",
-    "static/js/2.92eb675c.chunk.js": "/react-diary/static/js/2.92eb675c.chunk.js",
-    "static/js/2.92eb675c.chunk.js.map": "/react-diary/static/js/2.92eb675c.chunk.js.map",
+    "static/js/2.e5337c58.chunk.js": "/react-diary/static/js/2.e5337c58.chunk.js",
+    "static/js/2.e5337c58.chunk.js.map": "/react-diary/static/js/2.e5337c58.chunk.js.map",
     "index.html": "/react-diary/index.html",
-    "precache-manifest.9b3cacab33b30fef42ada1cf26072925.js": "/react-diary/precache-manifest.9b3cacab33b30fef42ada1cf26072925.js",
+    "precache-manifest.cb0919a1b05696133156f636283dc66b.js": "/react-diary/precache-manifest.cb0919a1b05696133156f636283dc66b.js",
     "service-worker.js": "/react-diary/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/react-diary/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/react-diary/static/media/logo.5d5d9eef.svg"
+    "static/css/main.0c90369b.chunk.css.map": "/react-diary/static/css/main.0c90369b.chunk.css.map",
+    "static/media/about.md": "/react-diary/static/media/about.5755be4b.md"
   }
 }
