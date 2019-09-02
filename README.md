@@ -34,5 +34,33 @@ $ yarn build
 $ yarn run deploy //or npm run deploy
 ```
 
+## Customize webpack configuration
+```bash
+$ npm run ejext
 
+// webpack.config.js
+const marked = require("marked");
+const renderer = new marked.Renderer();
+ 
+return {
+    module: {
+        rules: [{
+                test: /\.md$/,
+                use: [
+                    {
+                        loader: "html-loader"
+                    },
+                    {
+                        loader: "markdown-loader",
+                        options: {
+                            pedantic: true,
+                            renderer
+                        }
+                    }
+                ]
+            }]
+    }
+}
+
+```
 
