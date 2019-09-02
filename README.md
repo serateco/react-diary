@@ -35,9 +35,11 @@ $ yarn run deploy //or npm run deploy
 ```
 
 ## Customize webpack configuration
+
+More info:[Add Markdown](https://intoli.com/blog/webpack-markdown-setup/)
 ```bash
 $ npm run ejext
-
+yarn add -D markdown-loader html-loader style-loader css-loader highlight.js
 // webpack.config.js
 const marked = require("marked");
 const renderer = new marked.Renderer();
