@@ -69,3 +69,7 @@ return {
 
 ```
 
+### Add 404 page
+```
+create 404.html to 'public' directory
+```
