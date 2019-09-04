@@ -70,6 +70,7 @@ return {
 ```
 
 ### Add 404 page
+More info:[Add 404 page](http://sujinlee.me/spa-github-pages-ko/)
 ```
 create 404.html to 'public' directory
 ```
